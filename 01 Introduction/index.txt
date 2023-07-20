@@ -1,0 +1,34 @@
+HTML – Hyper Text Markup Language
+
+Html is the language of the web. It is used to create websites.
+
+We use HTML tags to define the look and feel of a website.
+
+With an understanding of these tags and How to put them together, we can create beautiful websites easily!
+
+Then why CSS and JavaScript
+      HTML is used for defining the layout of a page – A barebone page structure.
+      CSS is used to add styling to that barebone page created using HTML.
+      JavaScript (JS) is used to program logic for the page layout. E.g. what happens when a user hovers on a text when to hide or show elements etc?
+ 
+
+A Beautiful analogy
+HTML = Card body (only metal)
+
+CSS = Car paint, design, etc.
+
+JavaScript = Car engine + Interior logic
+
+ 
+
+We will start learning how to build beautiful layouts in this course.
+
+ 
+
+Installing VS Code
+We can use any text editor of our choice. Here, I am using VS Code because it is lightweight, open-source & from Microsoft.
+
+      Go to google, search for VS Code, download and install it.
+NOTE: You can write HTML even in Notepad. Text editors like VS Code just makes things easier.
+
+ 
