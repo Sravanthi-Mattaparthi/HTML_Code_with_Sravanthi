@@ -1,0 +1,152 @@
+We can add elements inside the body tag to define the page layout.
+
+ 
+
+HTML Element
+
+Everything from starting to the ending tag
+
+<body>    - Opening tag
+
+-Content-
+
+</body>   - Closing tag
+
+ 
+
+HTML Attributes
+
+Used to add more information corresponding to an HTML tag.
+
+Example: <a href=”https://codewithharry.com/”> Harry’s Site </a>
+
+<a = anchor tag
+
+href is the attribute of above element
+
+We can either use single or double quotes in attributes.
+
+ 
+
+The Heading Tag
+
+Heading tag is used to mark heading in HTML. From h1 to h6, we have tags for the most important to the least important heading.
+
+<h1> Most important heading </h1>
+
+<h2> Another heading H2 </h2>
+
+<h3> Another heading H3 </h3>
+
+<h4> Another heading H4 </h4>
+
+<h5> Another heading H5 </h5>
+
+<h6> Least important heading </h6>
+
+Note: We should not use HTML headings to make text thick or bold.
+
+ 
+
+The Paragraph Tag
+
+Paragraph tags are used to add paragraphs to an HTML page.
+
+<p> This is a paragraph </p>
+
+ 
+
+ 
+
+The Anchor Tag
+
+The Anchor tag is used to add links to existing content inside an HTML page.
+
+<a href=”https://codewithharry.com/”> Click Me </a>
+
+ 
+
+The img Tag
+
+img tag is used to add images in an HTML page.
+
+<img src=”image.jpeg”>
+
+Note: In src attribute, we have to specify the relative path of the image.
+If you want to decrease the size of the image in html use width and height and mention that value in pixels (px)
+
+ 
+
+Bold, italic and underline Tags
+
+We can use bold, italic and underline tags to highlight the text as follows:
+
+<b> This is bold </b>
+
+<i> This is italic </i>
+
+<u> This is underline </u>
+
+ 
+
+br Tag
+
+The br tag is used to create line breaks in an HTML document.
+
+ 
+
+Big and small Tags
+
+We can make the text a bit larger and a bit smaller using big and small tags respectively.
+
+ 
+
+hr Tag
+
+<hr> tag in HTML is used to create a horizontal ruler often used to separate the content.
+
+ 
+
+Subscript and Superscript
+
+We can add subscript and superscripts in HTML as follows:
+
+<sub> this </sub> is subscript
+
+<sup> this </sup> is superscript
+
+ 
+
+pre Tag
+
+HTML always ignores extra spaces and newlines. In order to display a piece of text as it is, we use pre tag
+
+<pre>
+
+       This        is written
+
+       Using  pre
+
+       Tag
+
+</pre>
+
+Note: Above text will get rendered as it is.
+
+ 
+
+Chapter – 3 Practice Set
+ 
+
+1.Create an HTML page with a heading (title heading), a primary heading, and a subheading.
+Which tags did you use?
+
+2.Create a page with 5 wallpaper images taken from the internet
+
+3.Use br and hr tags to display a piece of text with line-breaks
+
+4.Try to write the following chemical equation using HTML
+C + O2 -> CO2
+
+5.Try to write a Wikipedia article using HTML
+ 
