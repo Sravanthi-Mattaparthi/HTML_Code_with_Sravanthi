@@ -1,0 +1,85 @@
+When we use the right tag in right place, it results in a better page layout, better indexing by search engines, and better user experience.
+
+We use the following tag to get the job done
+
+<header>  #It contains nav tag (Navigation bar)
+
+<main>
+
+<footer>
+
+Above tags are used for website layout
+
+ 
+
+Inside the main tag we insert the following tags:
+
+<main>                  #The main opening tag
+
+<section>              #A page section
+
+<article>               #A self-contained content
+
+<aside>                 #Content aside from the content (e.g. Ads etc.)
+
+</main>                #the main closing tag
+
+ 
+
+Creating a page like this is not necessary but it creates a readable and structured layout. Also, they are useful for SEO.
+
+ 
+
+Link attributes
+
+<a href=”/contact”> Contact Us </a>         
+
+#above tag will allow the contact page to open in same tab
+
+ 
+
+<a href=”/contact” target=’_blank’> Contact Us <a>                 
+
+#above tag will open contact page in new tab
+
+ 
+
+We can put any content inside an anchor tag (images, headings, etc. are all allowed)
+
+ 
+
+If the page is inside a directory, we need to make sure that we link to the correct page. [Same applies to img tag as well]
+
+ 
+
+We can add links to images like this
+
+<a href=”/about”><img src=”a.jpg” width=”120”></a>
+
+[Height of image will be set automatically]
+
+ 
+
+The Div tag
+
+div tag is often used as a container for other elements.
+
+div is a block-level element. [Always takes full width]
+
+ 
+
+The span tag
+
+span is an inline container. [Takes as much width as necessary]
+
+ 
+
+Chapter – 4 Practice Set
+ 
+
+1.Create an SEO friendly website using HTML
+2.Create an HTML page which opens google when clicked on an image
+3.Create a website which has your 5 top used websites bookmarked. The links should open in a new tab.
+ 
+
+ 
