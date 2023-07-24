@@ -1,0 +1,76 @@
+<!--
+  Create a table that have heading background as green, even rows as white and odd rows as light green
+Use colon span have a last column as First and last name
+-->
+<html>
+  <head>
+    <title>Student Data</title>
+  </head>
+  <body>
+    <table border = "1" width="100%" style="text-align: center;">
+      <style>
+        th{
+          background-color: rgb(51, 181, 51);
+          color: whitesmoke;
+        }
+         tr:nth-child(odd){
+          background-color:whitesmoke;
+        }
+        tr:nth-child(even){
+          background-color: lightgrey;
+        }
+      </style>
+      <tr>
+        <th>Sno</th>
+        <th>Student Name</th>
+        <th>Course</th>
+        <th>Qualification</th>
+        <th>Offline/Online</th>
+        <th colspan="2">Full name</th>
+    
+      </tr>
+
+      <tr>
+        <td>01</td>
+        <td>Sravanthi</td>
+        <td>Java Full stack</td>
+        <td>M.Tech</td>
+        <td>Offline</td>
+        <td>Lakshmi</td>
+        <td>Sravanthi</td>
+      </tr>
+
+      <tr>
+        <td>02</td>
+        <td>Satya</td>
+        <td>Python Full stack</td>
+        <td>B.Tech</td>
+        <td>Offline</td>
+        <td>Satya</td>
+        <td>Venkatachalam</td>
+      </tr>
+
+       <tr>
+        <td>03</td>
+        <td>Akhil</td>
+        <td>AWS and Devops</td>
+        <td>B.Tech</td>
+        <td>Online</td>
+        <td>Akhil</td>
+        <td>Srivatsava</td>
+      </tr>
+
+
+      <tr>
+        <td>04</td>
+        <td>Krishna</td>
+        <td>Mern Stack</td>
+        <td>B.Tech</td>
+        <td>Online</td>
+        <td>Buggala</td>
+        <td>Krishna</td>
+      </tr>
+
+    </table>
+  </body>
+</html>
